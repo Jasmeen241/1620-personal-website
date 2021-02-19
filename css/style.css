@@ -8,9 +8,25 @@ h1{
 .topnav {
   background-color:#E59500;
   overflow: hidden;
+  position: sticky;
+  top:0;
 } 
 
 a{
   font-family: "Montserrat",sans-serif;
   color: #002642;
+}
+nav li{
+  display: inline-block;
+
+}
+nav ul{
+  list-style: none;
+  margin-left: 70px;
+  margin-right: 250px;
+}
+.img{
+  float: left;
+  width: 500;
+  height: 500;
 }
