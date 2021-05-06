@@ -27,6 +27,5 @@ nav ul{
 }
 .img{
   float: left;
-  width: 500;
-  height: 500;
+  max-width: 50%;;
 }
